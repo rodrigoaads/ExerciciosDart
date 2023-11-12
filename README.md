@@ -1,1 +1,1 @@
-Repo com exercícios simples realizados em Dart, com objetivo de praticar e conhecer a linguagem. 
+Repository with simple exercises solved in Dart, with the intention of practicing the language. 
